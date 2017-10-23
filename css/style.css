@@ -1,0 +1,21 @@
+body{
+  background:url(' https://s-media-cache-ak0.pinimg.com/564x/1c/38/2c/1c382cff6a0a1b9b7eabfd27a23ed99d.jpg');
+}
+h1,h2,h4{
+	font-family: 'Niconne', cursive;
+	color: #ffffff;
+	font-size: 34px;
+}
+#quoteContainer{
+	border-style: solid;
+	color: white;
+	border-radius: 20px;
+}	
+.b1 ,.b2{
+	margin-top: 35px;
+	font-size: 34px;
+	margin-left: 20px;
+	padding: 14px 50px;
+	border-radius: 25px;
+	font-family: 'Niconne', cursive;
+}	
